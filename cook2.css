@@ -1,0 +1,50 @@
+
+.bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png');
+    background-size: cover;
+}
+
+.c1 {
+    padding: 20px;
+}
+
+.image1 {
+    margin: 8px;
+}
+
+.main-head {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.bu1 {
+    color: #ff8348;
+    background-color: #ffffff;
+    width: 97px;
+    height: 35px;
+    border-width: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-left: 50px;
+}
+
+.pa1 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    padding: 5px;
+}
+
+.head {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+    margin: 5px;
+}
+
+.c2 {
+    padding: 1px;
+}
